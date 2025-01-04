@@ -18,7 +18,15 @@ An interactive Power BI dashboard can be downloaded here.
 The SQL scripts for creation of the database, preparing the data for dashboard can be found here.
 
 ## Data Structure and Overview
+The diagram below shows the entity relationship of the tables used in this analysis, extracted from the business's database. It consists of sales, customers, motorcycles, along with date and measure tables created in Power BI.
+
+![Screenshot 01-04-2025 04 03 33](https://github.com/user-attachments/assets/fb1d569f-3396-4b3d-a06e-40dbcaece5b9)
 
 ## Executive Summary
+In 2024, the business generated ₦409.2M in revenue, ₦6M in profit, and sold a total of 300 motorcycles. The Bajaj Boxer 100 was the best-selling motorcycle, with 54 units sold, followed closely by the Honda Ace 110 Self Start and Haojue Lucky Plus, each selling 36 units. The following sections will delve into additional contributing factors, analyze sales trends, and highlight key opportunities for improvement.
+
+![image](https://github.com/user-attachments/assets/675b03cd-8323-4f5b-a905-8234f615200c)
+
 ## insights Deep Dive
+
 ## Recommendations
