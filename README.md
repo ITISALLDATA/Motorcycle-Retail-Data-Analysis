@@ -23,10 +23,22 @@ The diagram below shows the entity relationship of the tables used in this analy
 ![Screenshot 01-04-2025 04 03 33](https://github.com/user-attachments/assets/fb1d569f-3396-4b3d-a06e-40dbcaece5b9)
 
 ## Executive Summary
+
 In 2024, the business generated ₦409.2M in revenue, ₦6M in profit, and sold a total of 300 motorcycles. The Bajaj Boxer 100 was the best-selling motorcycle, with 54 units sold, followed closely by the Honda Ace 110 Self Start and Haojue Lucky Plus, each selling 36 units. The following sections will delve into additional contributing factors, analyze sales trends, and highlight key opportunities for improvement.
 
 ![image](https://github.com/user-attachments/assets/675b03cd-8323-4f5b-a905-8234f615200c)
 
 ## insights Deep Dive
+The business's sales peaked in the last quater of the year, with dec having 79, followed by oct with 62 and nov with 71, totaling having 61 and nov with 72 followed anddecember contributing most to the sales, with the total of 79 and previous months uin the quater having  
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/64e8ca1f-08e2-4116-ba00-add5b84abac5)" alt="Image 1" width="45%">
+  <img src="![image](https://github.com/user-attachments/assets/55e361d4-f86d-4478-887f-7a98bf3d67f3)" alt="Image 2" width="45%">
+</p>
+
+![image](https://github.com/user-attachments/assets/64e8ca1f-08e2-4116-ba00-add5b84abac5)
+
+![image](https://github.com/user-attachments/assets/55e361d4-f86d-4478-887f-7a98bf3d67f3)
+
 
 ## Recommendations
