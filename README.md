@@ -12,10 +12,10 @@ Insights and recommendations are provided on the following key areas:
 
 * Sales Trend Analysis: Evaluation of sales patterns over the months of 2024, focusing on quantities sold and profit generated.
 * Motorcycle-Level Performance: Analysis of the various motorcycles offered by Ayotola & Sons, assessing their contribution to sales, revenue, quantities sold, and profit in 2024.
-* Customer Loyalty: Evaluation of top customers in 2024 and their contribution to business growth.
+* Customer-Level Performance and Behavior: Evaluation of top customers in 2024 and their contribution to business growth.
 
-An interactive Power BI dashboard can be downloaded here.  
-The SQL script s for creation of the database, preparing the data for dashboard can be found here.
+An interactive Power BI dashboard can be downloaded [here](https://drive.google.com/file/d/1Ps1y-dAj_d6pemnPIUIZPyl2WKGUe-7r/view?usp=drive_link).  
+The SQL scripts that goes into the creation of the database can be found [here](https://drive.google.com/file/d/1_LDMMCA4Oqj36Ub5KBm1qm_K2v-1xZZ3/view?usp=drive_link).
 
 ## Data Structure and Overview
 The diagram below shows the entity relationship of the tables used in this analysis, extracted from the business's database. It consists of sales, customers, motorcycles, along with date and measure tables created in Power BI.
@@ -57,11 +57,11 @@ The business's sales peaked in the last quarter of the year, with 79 motorcycles
 
 ### Customer-Level Performance and Behavior:
 
-In 2024, the top 5 customers contributed ₦171,350,000 to the total revenue, accounting for 41.8% of the annual revenue. They also generated ₦2,500,000 in profit, representing 41.6%, and purchased a total of 125 motorcycles, which is 41.6% of the total units sold. In comparison, the bottom 5 customers contributed ₦66,750,000, which accounts for 16% of the annual revenue, generated ₦1,000,000 in profit (16%), and purchased 50 motorcycles.
+* In 2024, the top 5 customers contributed ₦171,350,000 to the total revenue, accounting for 41.8% of the annual revenue. They also generated ₦2,500,000 in profit, representing 41.6%, and purchased a total of 125 motorcycles, which is 41.6% of the total units sold. In comparison, the bottom 5 customers contributed ₦66,750,000, which accounts for 16% of the annual revenue, generated ₦1,000,000 in profit (16%), and purchased 50 motorcycles.
 
-Emeka Adeyemi was the highest contributor to the business's revenue in 2024, generating ₦36,750,000 in revenue and ₦520,000 in profit from the purchase of 26 motorcycles. However, their average days between purchases are relatively high compared to Ifeoma Ibrahim, who returns every 13 days. While Ifeoma generated less revenue, profit, and bought fewer motorcycles overall, their shorter average days between purchases indicate a potential opportunity to increase their spending.
+* Emeka Adeyemi was the highest contributor to the business's revenue in 2024, generating ₦36,750,000 in revenue and ₦520,000 in profit from the purchase of 26 motorcycles. However, their average days between purchases are relatively high compared to Ifeoma Ibrahim, who returns every 13 days. While Ifeoma generated less revenue, profit, and bought fewer motorcycles overall, their shorter average days between purchases indicate a potential opportunity to increase their spending.
 
-David Nwachukwu ranked as the second-highest contributor in terms of revenue, profit, and total units sold. However, their average days between purchases are shorter than Emeka's. Further analysis is needed to explore ways to encourage David to increase spending during each purchase to maximize their contribution to the business.
+* David Nwachukwu ranked as the second-highest contributor in terms of revenue, profit, and total units sold. However, their average days between purchases are shorter than Emeka's. Further analysis is needed to explore ways to encourage David to increase spending during each purchase to maximize their contribution to the business.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/44f53a56-9c46-44f2-8e8a-1c824a9a1cda">
