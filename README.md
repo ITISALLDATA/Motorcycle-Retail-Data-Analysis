@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following key areas:
 * Customer Loyalty: Evaluation of top customers in 2024 and their contribution to business growth.
 
 An interactive Power BI dashboard can be downloaded here.  
-The SQL scripts for creation of the database, preparing the data for dashboard can be found here.
+The SQL script s for creation of the database, preparing the data for dashboard can be found here.
 
 ## Data Structure and Overview
 The diagram below shows the entity relationship of the tables used in this analysis, extracted from the business's database. It consists of sales, customers, motorcycles, along with date and measure tables created in Power BI.
@@ -55,6 +55,32 @@ The business's sales peaked in the last quarter of the year, with 79 motorcycles
   <img src="https://github.com/user-attachments/assets/3feaf0bf-1b65-45f8-bb21-df7b20f71ba7">
 </p>
 
-### Customer Loyalty: 
+### Customer-Level Performance and Behavior:
+
+In 2024, the top 5 customers contributed ₦171,350,000 to the total revenue, accounting for 41.8% of the annual revenue. They also generated ₦2,500,000 in profit, representing 41.6%, and purchased a total of 125 motorcycles, which is 41.6% of the total units sold. In comparison, the bottom 5 customers contributed ₦66,750,000, which accounts for 16% of the annual revenue, generated ₦1,000,000 in profit (16%), and purchased 50 motorcycles.
+
+Emeka Adeyemi was the highest contributor to the business's revenue in 2024, generating ₦36,750,000 in revenue and ₦520,000 in profit from the purchase of 26 motorcycles. However, their average days between purchases are relatively high compared to Ifeoma Ibrahim, who returns every 13 days. While Ifeoma generated less revenue, profit, and bought fewer motorcycles overall, their shorter average days between purchases indicate a potential opportunity to increase their spending.
+
+David Nwachukwu ranked as the second-highest contributor in terms of revenue, profit, and total units sold. However, their average days between purchases are shorter than Emeka's. Further analysis is needed to explore ways to encourage David to increase spending during each purchase to maximize their contribution to the business.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44f53a56-9c46-44f2-8e8a-1c824a9a1cda">
+</p>
 
 ## Recommendations
+
+Based on the uncovered insights, the following recommendation is provided:
+
+* Capitalize on the popularity of the Bajaj Boxer 100, Honda Ace 110 Self Start, and Haojue Lucky Plus by ensuring adequate stock availability year-round. Promote these models through advertisements highlighting their benefits, such as reliability and affordability.
+  
+* Develop strategies to improve the sales of underperforming models, such as the Haojue UD. Potential approaches include:
+  
+    1. Highlighting its unique selling points (e.g., fuel efficiency or affordability).
+    2. Offering limited-time discounts or bundle packages to make it more attractive.
+       
+* Foster deeper relationships with top-performing customers like Emeka Adeyemi, David Nwachukwu, and Ifeoma Ibrahim. Develop exclusive benefits to encourage increased spending and retention.
+  
+* Focus on customers with shorter intervals between purchases (e.g., Ifeoma Ibrahim). These frequent buyers could be encouraged to increase their average spending through personalized offers for premium models.
+  
+* While Bajaj Boxer 100 leads in unit sales and profit, the Honda CGL 125 generates more revenue per unit. Explore strategies to maximize revenue and profitability for high-demand models.
+  
